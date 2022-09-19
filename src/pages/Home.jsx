@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import {
   FaChevronDown,
@@ -124,10 +123,8 @@ const Home = ({ title }) => {
                   security and deep liquidity
                 </p>
                 <button className="btn-banner text-white flex items-center justify-center gap-x-4 capitalize">
-                  
-                    learn more
-                  
-                  <FaArrowRight className="text-white"/> 
+                  learn more
+                  <FaArrowRight className="text-white" />
                 </button>
               </div>
               <div className="banner-img flex-1 flex justify-end h-56 w-56 mt-12">
@@ -388,7 +385,7 @@ const Home = ({ title }) => {
               </div>
             </div>
           </div>
-        </div>{" "}
+        </div>
       </section>
     </main>
   );
