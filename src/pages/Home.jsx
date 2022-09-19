@@ -259,7 +259,7 @@ const Home = ({ title }) => {
                       </h5>
                     </div>
                   </div>
-                  <div className="">
+                  <div className="flex flex-col  items-end">
                     <h2 className="font-semibold text-xl text-gray-3">
                       54372.94USD
                     </h2>
@@ -278,7 +278,7 @@ const Home = ({ title }) => {
                       </h5>
                     </div>
                   </div>
-                  <div className="">
+                  <div className="flex flex-col  items-end">
                     <h2 className="font-semibold text-xl text-gray-3">
                       1.02 USD
                     </h2>
@@ -299,7 +299,7 @@ const Home = ({ title }) => {
                       </h5>
                     </div>
                   </div>
-                  <div className="">
+                  <div className="flex flex-col  items-end">
                     <h2 className="font-semibold text-xl text-gray-3">
                       54372.94USD
                     </h2>
@@ -318,7 +318,7 @@ const Home = ({ title }) => {
                       </h5>
                     </div>
                   </div>
-                  <div className="">
+                  <div className=" flex flex-col  items-end">
                     <h2 className="font-semibold text-xl text-gray-3">
                       1.02 USD
                     </h2>
